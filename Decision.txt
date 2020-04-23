@@ -1,0 +1,17 @@
+Project Structure Related
+
+1. Cookiecutter Data Science -> https://drivendata.github.io/cookiecutter-data-science/
+
+      Data Exploration Related
+
+    - Formulate several business questions and try to find answers (exploratory analysis)
+
+      Project WriteUp Related
+
+2. Use GitHub Pages for generating reports/WriteUp
+
+    - Data Modelling Related
+      1. Knowledge based recommendation
+      2. Machine Learning based classification (DBSCAN, K-Means etc.)
+
+    - Solution Design Related
