@@ -1,6 +1,6 @@
 This repo contains all the project files for DataScience nano degree program of Udacity as per the requirement of final Capstone Project (StarBucks)
 
-The accompanying medium blog post can be found [here](https://medium.com/@hardikbalar101).
+The accompanying medium blog post can be found [here](https://medium.com/@hardikbalar101/starbucks-customer-classification-using-catboost-c3026d1785d7).
 
 ### Table of Contents
 
