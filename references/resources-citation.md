@@ -1,4 +1,3 @@
-#TODO : Complete all the used resources and citations here
 1. https://catboost.ai/docs/concepts/loss-functions-multiclassification.html
 2. https://catboost.ai/docs/concepts/python-reference_catboostclassifier_get_all_params.html
 3. https://www.kaggle.com/abhinand05/catboost-a-deeper-dive
