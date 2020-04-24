@@ -6,32 +6,33 @@ The accompanying medium blog post can be found [here](https://medium.com/@hardik
 
 1. [Installation](#installation)
 3. [Project Organization](#org)
-4. [Evaluation Strtegy & Results](#results)
+4. [Evaluation Strategy & Results](#results)
 5. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Installation <a name="installation"></a>
 
 Libraries used
 
-scikit-learn==0.22.2.post1
-nltk==3.4.5
-numpy==1.18.2
-pandas==1.0.3
-joblib==0.13.2
-progressbar==2.5
-catboost==0.20.2
-matplotlib==3.2.1
-seaborn==0.10.0
-scikit-plot==0.3.7
-scipy==1.4.1
-notebook==6.0.3
-jupyterlab==2.1.0
-jupyter==1.0.0
-bokeh==2.0.1
-cookiecutter==1.7.0
-ipywidgets==7.5.1
-nbconvert==5.6.1
-setuptools==46.0.0
+scikit-learn==0.22.2.post1 <br>
+nltk==3.4.5 <br>
+numpy==1.18.2 <br>
+pandas==1.0.3 <br>
+joblib==0.13.2 <br>
+progressbar==2.5 <br>
+catboost==0.20.2 <br>
+matplotlib==3.2.1 <br>
+seaborn==0.10.0 <br>
+scikit-plot==0.3.7 <br>
+scipy==1.4.1 <br>
+notebook==6.0.3 <br>
+jupyterlab==2.1.0 <br>
+jupyter==1.0.0 <br>
+bokeh==2.0.1 <br>
+cookiecutter==1.7.0 <br>
+ipywidgets==7.5.1 <br>
+nbconvert==5.6.1 <br>
+setuptools==46.0.0 <br>
+tqdm==4.45.0 <br>
 
 I have used Python version 3.7.7 in my local machine and prepared project notebook on safari web-browser.
 
