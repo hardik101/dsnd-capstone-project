@@ -2,6 +2,8 @@ This repo contains all the project files for DataScience nano degree program of 
 
 The accompanying medium blog post can be found [here](https://medium.com/@hardikbalar101/starbucks-customer-classification-using-catboost-c3026d1785d7).
 
+Launch a notebook using [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hardik101/dsnd-capstone-project/master)
+
 ### Table of Contents
 
 1. [Installation](#installation)
